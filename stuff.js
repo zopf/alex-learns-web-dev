@@ -11,7 +11,7 @@ function spillTheBeans(item, targetElement) {
 }
 
 function addThem(x, y) {
-  return x + y + 15;
+  return x + y + 17;
 }
 
 var counter = 0;
